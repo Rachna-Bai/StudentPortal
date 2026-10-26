@@ -7,7 +7,7 @@ function PageHeader() {
             <div class="container-fluid d-flex" style={{justifyContent: "space-between"}}>
                 <a class="navbar-brand" href="#">Page Header</a>
                 <form class="d-flex">
-                    <button class="btn btn-success" type="submit">Add New Profile</button>
+                    <button className="btn btn-success" type="submit">Add New Profile</button>
                 </form>
             </div>
         </nav>
